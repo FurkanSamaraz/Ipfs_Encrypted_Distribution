@@ -2,7 +2,9 @@
 
 # Gereksinimler / Requirements
 1- Golang
+
 2- VsCode
+
 3- IPFS Dowloand url to Desktop
 
 # main.go
@@ -24,7 +26,7 @@ sh.Add(strings.NewReader("hello world selam"))
 
 sh.AddDir("./Qr.png")
 
-
+# BLOCK
 # Golang-AES-GCM
 Golang ile kendi şifreleme algoritmamı yazmak istedik biraz araştırma yaptım ve aes kütüphanesini buldum https://pkg.go.dev/crypto/aes#NewCipher ve anahtarları kayıt etmemiz gerekiyor bu sıkıcı ve güvensiz bunun yerine 32 bitlik bir anahtar değişkeni yazdım sonra rastgele(rand) işlemine gönderdim sonrasında ise hexadecimale dönüştürdüm sonuç sürekli değişen bir key ve anahtarıda bende ;)
 
