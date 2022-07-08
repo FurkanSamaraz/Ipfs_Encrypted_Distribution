@@ -1,5 +1,11 @@
 # Ipfs_Encrypted_Distribution
 
+
+
+https://user-images.githubusercontent.com/92402372/178027155-832d4687-45c1-4281-a963-9c218ae53c55.mov
+
+
+
 # Gereksinimler / Requirements
 1- Golang
 
