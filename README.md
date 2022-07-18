@@ -5,6 +5,11 @@
 https://user-images.githubusercontent.com/92402372/178027155-832d4687-45c1-4281-a963-9c218ae53c55.mov
 
 
+![1](https://user-images.githubusercontent.com/92402372/179562775-b8d39439-2bb6-4c65-a7a5-d94a82eb9545.png)
+
+
+![2](https://user-images.githubusercontent.com/92402372/179562790-1bf24833-8fb5-460e-8a6b-71e5f4a8bfe5.png)
+
 
 # Gereksinimler / Requirements
 1- Golang
